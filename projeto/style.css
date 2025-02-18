@@ -95,11 +95,11 @@ nav{
 }
 nav > a{
     color: var(--cor2);
-    padding: 10px;
+   margin-right: 8.5px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: 0.7s;
-    margin-right: auto;
+    
     
 }
 nav > a:hover{
@@ -122,7 +122,7 @@ main h1{
     color: var(--cor5);
     font-family: var(--font-android);
     font-weight: normal;
-    font-size: 1.8em;
+    
 }
 main h2{
     color: var(--cor4);
